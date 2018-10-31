@@ -23,7 +23,7 @@
     "@folio/eslint-config-stripes": "^3.2.1",
     "@folio/stripes": "^1.0.0",
     "babel-eslint": "^9.0.0",
-    "eslint": "^5.6.0",
+    "eslint": "^5.6.0"
   },
   "dependencies": {
     "@folio/licenses": "^1.0.0",
