@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Licenses from '@folio/licenses/src/Main';
+import Licenses from '@folio/licenses/src/routes/Licenses';
+
 import { Modal } from '@folio/stripes/components';
 
 import css from './LicenseSearch.css';
