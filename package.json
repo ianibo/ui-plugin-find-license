@@ -30,7 +30,7 @@
     "redux": "^4.0.0"
   },
   "dependencies": {
-    "@folio/licenses": "^1.1.0",
+    "@folio/licenses": "^1.0.0",
     "classnames": "^2.2.5",
     "prop-types": "^15.6.0"
   },
