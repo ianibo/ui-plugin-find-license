@@ -4,7 +4,7 @@ import { Button, Icon } from '@folio/stripes/components';
 import className from 'classnames';
 
 import css from './LicenseSearch.css';
-import licenseSearchModal from './LicenseSearchModal';
+import LicenseSearchModal from './LicenseSearchModal';
 
 export default class LicenseSearch extends React.Component {
   constructor(props) {
